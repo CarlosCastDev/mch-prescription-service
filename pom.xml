@@ -80,6 +80,10 @@
             <artifactId>mysql-socket-factory-connector-j-8</artifactId>
             <version>1.25.0</version>
         </dependency>
+        <dependency>
+            <groupId>io.quarkus</groupId>
+            <artifactId>quarkus-smallrye-jwt</artifactId>
+        </dependency>
     </dependencies>
 
     <build>
